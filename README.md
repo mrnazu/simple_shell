@@ -2,7 +2,7 @@
 
 ```By: Julien Barbier
 Weight: 10
-team: Samuel Amsalu, Chinedu Prince Abalogu
+team: Samuel Amsalu, Chinedu Prince Abalogu ninjas
 Project must end by Feb 22
 Checker will be released at Feb 21
 ```
